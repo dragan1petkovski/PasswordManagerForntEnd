@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Components",
+    "\\Components\\HomePage",
+    "\\Components\\HomePage\\personal\\createpersonalcredential",
+    "\\Components\\HomePage\\personal\\createpersonalfolder",
+    "\\Components\\HomePage\\personal\\deletepersonalcredential",
+    "\\Components\\HomePage\\personal\\updatepersonalcredential",
+    "\\Components\\HomePage\\personal\\updatepersonalfolder"
+  ],
+  "SelectedNode": "\\Components\\HomePage",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+{
+    "/api": {
+        "target": "https://cm.test.local:4200/",
+        "secure": false
+
+    },
+	"/mfa": {
+		"target": "https://cm.test.local:4200/",
+		"secure": false
+
+	}
+}
