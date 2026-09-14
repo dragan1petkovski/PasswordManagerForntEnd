@@ -1,3 +1,4 @@
+It is some frontend for the Password Manager WebAPI repo. It is different work in progress from before :)
 # PasswordManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
